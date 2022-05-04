@@ -1,0 +1,19 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "express_basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Urivan07/express_basic.git"
+  },
+  "author": "Urivan Rubio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Urivan07/express_basic/issues"
+  },
+  "homepage": "https://github.com/Urivan07/express_basic#readme"
+}
